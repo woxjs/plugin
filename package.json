@@ -2,6 +2,7 @@
   "name": "@wox/plugin",
   "version": "2.0.0",
   "description": "The plugin of wox.js",
+  "main": "commander.js",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/woxjs/plugin.git"
